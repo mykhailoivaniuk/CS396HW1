@@ -7,7 +7,7 @@
 
 # Right
 
-<img src='https://github.com/mykhailoivaniuk/CS396HW1/blob/main/right.png' title='Move Left' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mykhailoivaniuk/CS396HW1/blob/main/right2.png' title='Move Left' width='' alt='Video Walkthrough' />
 
 # Up
 
